@@ -1,0 +1,6 @@
+projectKey=sonarqube-code-test-key
+serverUrl=http://host.docker.internal:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://host.docker.internal:9000/dashboard?id=sonarqube-code-test-key
+ceTaskId=AYrbfP_SXEKk1W65BVlG
+ceTaskUrl=http://host.docker.internal:9000/api/ce/task?id=AYrbfP_SXEKk1W65BVlG
